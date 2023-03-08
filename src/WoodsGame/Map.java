@@ -57,7 +57,5 @@ public class Map {
         else if(x < -200){
             System.out.println("Du er Vest");
         }
-        }
-
-
+    }
 }
